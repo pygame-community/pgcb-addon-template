@@ -1,7 +1,9 @@
 """This file is required to initialize the extension codebase as a package module.
 """
 
-__title__ = "template-extension"  # TODO: Rename TemplateBot according to your extension.
+__title__ = (
+    "template-extension"  # TODO: Rename TemplateBot according to your extension.
+)
 __author__ = "Extension-Author"  # TODO: Rename Bot-Author according to your extension.
 __license__ = "MIT"  # TODO: Change license according to your extension.
 __copyright__ = "Copyright 2022-present Bot-Author"  # TODO: Change copyright according to your extension.
